@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-My PhD explores how we interpret data visualisations. 
+My PhD explores how we interpret data visualisations, and the cognitive processes involved. I am interested in the types of inferences that people make when looking at charts and graphs. My research applies principles from psycholinguistic research to understand how information is mentally represented.
 
 #### Recent Activities
 
