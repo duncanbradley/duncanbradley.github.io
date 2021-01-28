@@ -2,7 +2,7 @@
 title: ""
 excerpt: "About"
 sitemap: false
-permalink: /about/
+permalink: /
 author_profile: true
 
 ---
