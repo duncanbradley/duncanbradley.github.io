@@ -7,4 +7,4 @@ author_profile: true
 
 ---
 
-Main text here
+Main text here.
