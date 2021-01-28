@@ -1,8 +1,8 @@
 ---
 title: ""
-excerpt: "Home"
+excerpt: "About"
 sitemap: false
-permalink: /
+permalink: /about/
 ---
 
 Main text here
