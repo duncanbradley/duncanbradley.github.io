@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Duncan Bradley"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Duncan Bradley"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Duncan Bradley"
   avatar           : "/assets/images/bradley.jpg"
-  bio              : "PhD student at the University of Manchester"
+  bio              : "Cognitive Psychology PhD Student"
   location         : "Manchester, UK"
   email            :
   links:
