@@ -6,7 +6,7 @@ email: mailto:duncan.bradley@postgrad.manchester.ac.uk
 twitter: twitter.com/duncanbradley_
 github: "github.com/duncanbradley"
  #   - label: "Email"
- #     icon: "fas fa-fw fa-envelope-square"
+icon: "fas fa-fw fa-envelope-square"
  #     url: "mailto:duncan.bradley@postgrad.manchester.ac.uk"
  #   - label: "Twitter"
  #     icon: "fab fa-fw fa-twitter-square"
