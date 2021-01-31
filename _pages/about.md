@@ -7,11 +7,11 @@ author_profile: true
 
 ---
 
-#### Hello!
+##### Hello!
 
-I am a first-year PhD student in cognitive psychology at the University of Manchester. My research explores how we interpret information presented in data visualisations (charts and graphs). I am interested in the cognitive processes involved in extracting meaning from data visualisations, such as inference-generation. As a founder member of the University of Manchester’s Open Research Working Group, I am passionate about open science and reproducibility.
+I am a first-year PhD student in cognitive psychology at the University of Manchester. My research explores how we interpret information presented in data visualisations. I am interested in the cognitive processes involved in extracting meaning from data visualisations, such as inference-generation. As a founder member of the University of Manchester’s Open Research Working Group, I am passionate about open science and reproducibility.
 
-======
+---
 
 ##### Recent Activities
 
@@ -19,7 +19,7 @@ I am a first-year PhD student in cognitive psychology at the University of Manch
   * Published a report in the [BPS Cognitive Psychology Bulletin](https://shop.bps.org.uk/the-cognitive-psychology-bulletin-issue-6-spring-2021)
   * Programmed several Final Year Undergraduate Projects using [PsychoPy](https://www.psychopy.org)
 
-November 2020:
+###### November 2020:
   * Graduated MRes Psychology at the University of Manchester (with distinction and Programme Prize)
   * Teaching Assistant for *Reproducible Data Science* unit on Biological Sciences MSci Programmes
   * Student helper at [Methods@Manchester Methods Fair 2020](https://www.methods.manchester.ac.uk/connect/events/methods-fair/)
