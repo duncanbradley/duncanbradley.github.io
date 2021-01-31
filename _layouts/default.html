@@ -7,6 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -22,8 +23,8 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <a href="site.email">Email</a>
-        <a href="site.twitter">Twitter</a>
+        <i class="fa fa-futboll-0"></i><a href="site.email">Email</a><br> 
+        <a href="site.twitter">Twitter</a><br> 
         <a href="site.github">GitHub</a>
         
         {% if site.github.is_project_page %}
