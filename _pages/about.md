@@ -7,8 +7,6 @@ author_profile: true
 
 ---
 
-##### Hello!
-
 I am a first-year PhD student in cognitive psychology at the University of Manchester. My research explores how we interpret information presented in data visualisations. I am interested in the cognitive processes involved in extracting meaning from data visualisations, such as inference-generation. As a founder member of the University of Manchester’s Open Research Working Group, I am passionate about open science and reproducibility.
 
 ---
