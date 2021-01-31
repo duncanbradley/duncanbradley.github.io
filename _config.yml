@@ -3,13 +3,13 @@ logo: /assets/img/bradley.jpg
 description: Cognitive Psychology PhD Student investigating interpretation of data visualisations
 theme: jekyll-theme-minimal
 link1: twitter.com
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:duncan.bradley@postgrad.manchester.ac.uk"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/duncanbradley_"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/duncanbradley"
+ #   - label: "Email"
+ #     icon: "fas fa-fw fa-envelope-square"
+ #     url: "mailto:duncan.bradley@postgrad.manchester.ac.uk"
+ #   - label: "Twitter"
+ #     icon: "fab fa-fw fa-twitter-square"
+ #     url: "https://twitter.com/duncanbradley_"
+ #   - label: "GitHub"
+ #     icon: "fab fa-fw fa-github"
+ #     url: "https://github.com/duncanbradley"
 
