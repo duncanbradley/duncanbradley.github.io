@@ -22,19 +22,10 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <div id="head-soc">
-        <ul>        
-        <li id="site.email"><a href="">Email</a> </li>
-        <li id="site.twitter"><a href="">Twitter</a> </li>
-        <li id="site.github"><a href="">GitHub</a> </li>
-        </ul>
-        </div>
+        <a href="site.email">Email</a>
+        <a href="site.twitter">Twitter</a>
+        <a href="site.github">GitHub</a>
         
-        <p>{{ site.icon }}</p>
-        
-        <a href="url">link text</a>
-
-
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
