@@ -7,22 +7,26 @@ author_profile: true
 
 ---
 
-My PhD explores how we interpret data visualisations, and the cognitive processes involved. I am interested in the types of inferences that people make when looking at charts and graphs. My research applies principles from psycholinguistic research to understand how information is mentally represented.
+#### Hello!
 
-#### Recent Activities
+I am a first-year PhD student in cognitive psychology at the University of Manchester. My research explores how we interpret information presented in data visualisations (charts and graphs). I am interested in the cognitive processes involved in extracting meaning from data visualisations, such as inference-generation. As a founder member of the University of Manchester’s Open Research Working Group, I am passionate about open science and reproducibility.
 
-##### January 2021:
-  * Published report in BPS Cognitive Section Bulletin 
-  * Programmed 3 Final Year Undergraduate Projects using PsychoPy
+======
 
-##### November 2020:
-  * Graduated MRes Psychology (distinction and SBS award)
-  * Started TA on MSCi module at UoM
-  * Student helped at Methods@Manchester Methods Fair 2020
+##### Recent Activities
 
-##### October 2020:
-  * Started 'Introduction to Python' module
-  * Attended IEEE VIS 2020
+###### January 2021:
+  * Published a report in the [BPS Cognitive Psychology Bulletin](https://shop.bps.org.uk/the-cognitive-psychology-bulletin-issue-6-spring-2021)
+  * Programmed several Final Year Undergraduate Projects using [PsychoPy](https://www.psychopy.org)
 
-##### September 2020: 
-  * Awarded BPS Cognitive Section Postgraduate Grant
+November 2020:
+  * Graduated MRes Psychology at the University of Manchester (with distinction and Programme Prize)
+  * Teaching Assistant for *Reproducible Data Science* unit on Biological Sciences MSci Programmes
+  * Student helper at [Methods@Manchester Methods Fair 2020](https://www.methods.manchester.ac.uk/connect/events/methods-fair/)
+
+###### October 2020:
+  * Started *Programming in Python for Business Analytics* unit (auditing)
+  * Attended [IEEE VIS 2020](http://ieeevis.org/year/2020/welcome)
+
+###### September 2020: 
+  * Awarded BPS Cognitive Psychology Section [Postgraduate Rapid Project Grant](https://www.bps.org.uk/member-microsites/cognitive-psychology-section/awards-funding)
