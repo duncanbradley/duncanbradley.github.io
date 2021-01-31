@@ -6,20 +6,20 @@ I am a first-year PhD student in cognitive psychology at the University of Manch
 
 ---
 
-#### Recent Activities
+### Recent Activities
 
-##### January 2021:
+#### January 2021:
   * Published a report in the [BPS Cognitive Psychology Bulletin](https://shop.bps.org.uk/the-cognitive-psychology-bulletin-issue-6-spring-2021)
   * Programmed several Final Year Undergraduate Projects using [PsychoPy](https://www.psychopy.org)
 
-##### November 2020:
+#### November 2020:
   * Graduated MRes Psychology at the University of Manchester (with distinction and Programme Prize)
   * Teaching Assistant for *Reproducible Data Science* unit on Biological Sciences MSci Programmes
   * Student helper at [Methods@Manchester Methods Fair 2020](https://www.methods.manchester.ac.uk/connect/events/methods-fair/)
 
-##### October 2020:
+#### October 2020:
   * Started *Programming in Python for Business Analytics* unit (auditing)
   * Attended [IEEE VIS 2020](http://ieeevis.org/year/2020/welcome)
 
-##### September 2020: 
+#### September 2020: 
   * Awarded BPS Cognitive Psychology Section [Postgraduate Rapid Project Grant](https://www.bps.org.uk/member-microsites/cognitive-psychology-section/awards-funding)
