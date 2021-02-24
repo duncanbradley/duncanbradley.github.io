@@ -8,6 +8,10 @@ I am a first-year PhD student in cognitive psychology at the University of Manch
 
 ### Recent Activities
 
+#### February 2021:
+  * Attended *Robust Open Analysis in R* Workshop on Data Management Skills for Open Science, covering [version control](http://www.git-scm.com) and [pre-registration](https://osf.io). Run by [The Jean Golding Institute](http://bristol.ac.uk/golding/).
+  * Programmed [this website](https://duncanbradley.github.io) using [Github Pages](https://pages.github.com)
+
 #### January 2021:
   * Published a report in the [BPS Cognitive Psychology Bulletin](https://shop.bps.org.uk/the-cognitive-psychology-bulletin-issue-6-spring-2021)
   * Programmed several Final Year Undergraduate Projects using [PsychoPy](https://www.psychopy.org)
