@@ -8,8 +8,11 @@ I am a first-year PhD student in cognitive psychology at the University of Manch
 
 ### Recent Activities
 
+#### March 2021:
+  * Attended [*Boost your Research Reproducibility with Binder*](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-r.md) workshop, covering how to reproduce computational environments online. Run by [The Turing Way](https://the-turing-way.netlify.app/welcome.html) and the [Software Sustainability Institute](https://www.software.ac.uk).
+
 #### February 2021:
-  * Attended *Robust Open Analysis in R* Workshop on Data Management Skills for Open Science, covering [version control](http://www.git-scm.com) and [pre-registration](https://osf.io). Run by [The Jean Golding Institute](http://bristol.ac.uk/golding/).
+  * Attended *Robust Open Analysis in R* workshop on Data Management Skills for Open Science, covering [version control](http://www.git-scm.com) and [pre-registration](https://osf.io). Run by [The Jean Golding Institute](http://bristol.ac.uk/golding/).
   * Programmed [this website](https://duncanbradley.github.io) using [Github Pages](https://pages.github.com)
 
 #### January 2021:
