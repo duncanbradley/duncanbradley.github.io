@@ -8,16 +8,19 @@ I am a first-year PhD student in cognitive psychology at the University of Manch
 
 ### Recent Activities
 
+#### April 2021:
+  * Gained ethical approval for the first empirical study in my PhD
+
 #### March 2021:
   * Attended [*Boost your Research Reproducibility with Binder*](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-r.md) workshop, covering how to reproduce computational environments online. Run by [The Turing Way](https://the-turing-way.netlify.app/welcome.html) and the [Software Sustainability Institute](https://www.software.ac.uk).
 
 #### February 2021:
-  * Attended *Robust Open Analysis in R* workshop on Data Management Skills for Open Science, covering [version control](http://www.git-scm.com) and [pre-registration](https://osf.io). Run by [The Jean Golding Institute](http://bristol.ac.uk/golding/).
+  * Attended *Robust Open Analysis in R* workshop on data management skills for open science, covering [version control](http://www.git-scm.com) and [pre-registration](https://osf.io). Run by [The Jean Golding Institute](http://bristol.ac.uk/golding/).
   * Programmed [this website](https://duncanbradley.github.io) using [Github Pages](https://pages.github.com)
 
 #### January 2021:
   * Published a report in the [BPS Cognitive Psychology Bulletin](https://shop.bps.org.uk/the-cognitive-psychology-bulletin-issue-6-spring-2021)
-  * Programmed several Final Year Undergraduate Projects using [PsychoPy](https://www.psychopy.org)
+  * Programmed several Final Year Undergraduate Projects using [PsychoPy](https://www.psychopy.org) (co-supervisor)
 
 #### November 2020:
   * Graduated MRes Psychology at the University of Manchester (with distinction and Programme Prize)
