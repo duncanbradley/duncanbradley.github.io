@@ -8,6 +8,12 @@ I am a first-year PhD student in cognitive psychology at the University of Manch
 
 ### Recent Activities
 
+#### May 2021:
+
+  * Completed data collection for the first empirical study in my PhD, using [Pavlovia](https://www.psychopy.org) and [Prolific](https://www.prolific.co).
+  * Attended [*Intermediate Python Programming*](https://uomresearchit.github.io/programming_with_python/) workshop, covering [Matplotlib](https://matplotlib.org), [pandas](https://pandas.pydata.org), and defensive programming. Run by University of Manchester IT Services.
+  * Pre-registered [predictions and analysis plan](https://osf.io/23wpn) for the first empirical study in my PhD.
+  
 #### April 2021:
   * Gained ethical approval for the first empirical study in my PhD
 
