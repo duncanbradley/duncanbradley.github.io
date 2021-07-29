@@ -8,6 +8,15 @@ I am a first-year PhD student in cognitive psychology at the University of Manch
 
 ### Recent Activities
 
+#### July 2021:
+
+  * Wrote reproducible report of first empirical study in my PhD in [R Markdown](https://rmarkdown.rstudio.com/articles_intro.html) using [papaja](http://frederikaust.com/papaja_man/). Learnt how to cache computationally expensive models, write equations using LaTeX, and automate citations using [Zotero](). 
+    * Completed data collection for online experiment with MSc Data Science student, using Git for collaborative development of experimental script and materials (project co-supervisor).
+
+#### June 2021:
+
+  * Attended [*Simulation Summer School*](https://simsummerschool.github.io), covering simulation for factorial experiments, binary response data, power analysis and bayesian analysis. Organised by [PsyPAG](http://psypag.co.uk) and [BPS MSCP Section](https://www.bps.org.uk/member-microsites/mathematical-statistical-and-computing-psychology-section).
+
 #### May 2021:
 
   * Completed data collection for the first empirical study in my PhD, using [Pavlovia](https://www.psychopy.org) and [Prolific](https://www.prolific.co).
