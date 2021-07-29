@@ -10,8 +10,8 @@ I am a first-year PhD student in cognitive psychology at the University of Manch
 
 #### July 2021:
 
-  * Wrote reproducible report of first empirical study in my PhD in [R Markdown](https://rmarkdown.rstudio.com/articles_intro.html) using [papaja](http://frederikaust.com/papaja_man/). Learnt how to cache computationally expensive models, write equations using LaTeX, and automate citations using [Zotero](). 
-    * Completed data collection for online experiment with MSc Data Science student, using Git for collaborative development of experimental script and materials (project co-supervisor).
+  * Wrote reproducible report of first empirical study in my PhD in [R Markdown](https://rmarkdown.rstudio.com/articles_intro.html) using [papaja](http://frederikaust.com/papaja_man/). Learnt how to cache computationally expensive models, write equations using LaTeX, and automate citations using [Zotero](https://www.zotero.org). 
+  * Completed data collection for online experiment with MSc Data Science student, using Git for collaborative development of experimental script and materials (project co-supervisor).
 
 #### June 2021:
 
