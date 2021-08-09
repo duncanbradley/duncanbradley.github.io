@@ -34,7 +34,7 @@ I am a first-year PhD student in cognitive psychology at the University of Manch
   * Programmed [this website](https://duncanbradley.github.io) using [Github Pages](https://pages.github.com)
 
 #### January 2021:
-  * Published a report in the [BPS Cognitive Psychology Bulletin](https://shop.bps.org.uk/the-cognitive-psychology-bulletin-issue-6-spring-2021) on using my BPS Cognitive Psychology Section Postgraduate Rapid Project Grant.
+  * Published a report in the [BPS Cognitive Psychology Bulletin](https://shop.bps.org.uk/the-cognitive-psychology-bulletin-issue-6-spring-2021) on using my Postgraduate Rapid Project Grant.
   * Assisted design of several Final Year Undergraduate Projects, and programmed experiments using [PsychoPy](https://www.psychopy.org) (project co-supervisor)
 
 #### November 2020:
