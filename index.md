@@ -10,7 +10,7 @@ I am a first-year PhD student in cognitive psychology at the University of Manch
 
 #### July 2021:
 
-  * Wrote a reproducible report on the first empirical study in my PhD in [R Markdown](https://rmarkdown.rstudio.com/articles_intro.html) using [papaja](http://frederikaust.com/papaja_man/). Learnt how to cache computationally expensive models, write equations using LaTeX, and automate citations using [Zotero](https://www.zotero.org). 
+  * Wrote a reproducible report on the first empirical study in my PhD in [R Markdown](https://rmarkdown.rstudio.com/articles_intro.html), using [papaja](http://frederikaust.com/papaja_man/). Learnt how to cache computationally expensive models, write equations using LaTeX, and automate citations using [Zotero](https://www.zotero.org). 
   * Completed online data collection for MSc Data Science student's dissertation experiment, using Git for collaborative development of experimental script and materials (project co-supervisor).
 
 #### June 2021:
@@ -43,7 +43,7 @@ I am a first-year PhD student in cognitive psychology at the University of Manch
   * Student helper at [Methods@Manchester Methods Fair 2020](https://www.methods.manchester.ac.uk/connect/events/methods-fair/) (monitoring discussion board; facilitating Zoom sessions; answering queries).
 
 #### October 2020:
-  * Attended [*Programming in Python for Business Analytics*](https://www.manchester.ac.uk/study/masters/courses/list/11426/msc-data-science-business-and-management/course-details/BMAN73701#course-unit-details) course (Master's level unit; auditing). Covering object-oriented programming, data processing, and machine learning.
+  * Attended [*Programming in Python for Business Analytics*](https://www.manchester.ac.uk/study/masters/courses/list/11426/msc-data-science-business-and-management/course-details/BMAN73701#course-unit-details) course, covering object-oriented programming, data processing, and machine learning (Master's level unit; auditing).
   * Attended [IEEE VIS 2020](http://ieeevis.org/year/2020/welcome)
 
 #### September 2020: 
