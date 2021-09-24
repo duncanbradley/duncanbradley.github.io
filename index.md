@@ -8,6 +8,10 @@ I am a first-year PhD student in cognitive psychology at the University of Manch
 
 ### Recent Activities
 
+#### September 2021:
+  * Teaching Assistant on [Carpentries@Manchester: Data Carpentry Workshop (R)](https://uk-carpentries.github.io/2021-09-14-manchester-online/), covering good practice for minimising error when using spreadsheets, [OpenRefine](https://openrefine.org) for data cleaning, and R ([tidyverse](https://www.tidyverse.org)) for data analysis.
+  * Presented preliminary research at [Manchester Vision Network's](https://sites.manchester.ac.uk/manchester-vision-network/) Annual Research Showcase (online conference)
+
 #### July 2021:
 
   * Wrote a reproducible report on the first empirical study in my PhD in [R Markdown](https://rmarkdown.rstudio.com/articles_intro.html), using [papaja](http://frederikaust.com/papaja_man/). Learnt how to cache computationally expensive models, write equations using LaTeX, and automate citations using [Zotero](https://www.zotero.org). 
@@ -40,7 +44,7 @@ I am a first-year PhD student in cognitive psychology at the University of Manch
 #### November 2020:
   * Graduated MRes Psychology at the University of Manchester (with distinction and Programme Prize)
   * Graduate Teaching Assistant for [*Reproducible Data Science*](https://www.manchester.ac.uk/study/undergraduate/courses/2021/10111/msci-biology/course-details/BIOL33031#course-unit-details) on Biological Sciences MSci Programmes
-  * Student helper at [Methods@Manchester Methods Fair 2020](https://www.methods.manchester.ac.uk/connect/events/methods-fair/) (monitoring discussion board; facilitating Zoom sessions; answering queries).
+  * Student Helper at [Methods@Manchester Methods Fair 2020](https://www.methods.manchester.ac.uk/connect/events/methods-fair/) (monitoring discussion board; facilitating Zoom sessions; answering queries).
 
 #### October 2020:
   * Attended [*Programming in Python for Business Analytics*](https://www.manchester.ac.uk/study/masters/courses/list/11426/msc-data-science-business-and-management/course-details/BMAN73701#course-unit-details) course, covering object-oriented programming, data processing, and machine learning (Master's level unit; auditing).
