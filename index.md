@@ -2,11 +2,15 @@
 layout: default
 ---
 
-I am a first-year PhD student in cognitive psychology at the University of Manchester. My research explores how we interpret information presented in data visualisations. I am interested in the cognitive processes involved in extracting meaning from data visualisations, such as inference-generation. As a founder member of the University of Manchester’s Open Research Working Group, I am passionate about open science and reproducibility.
+I am a second-year PhD student in cognitive psychology at the University of Manchester. My research explores the cognitive processes involved in extracting meaning from data visualisations. As a founder member of the University of Manchester’s Open Research Working Group, I am passionate about open science and reproducibility.
 
 ---
 
 ### Recent Activities
+
+#### October 2021:
+  * Attended [*Introduction to the Unix Shell*](https://gcapes.github.io/shell-novice/) workshop, covering automation of repetitive/lengthy tasks through a command-line interface. Run by University of Manchester IT Services.
+  * Attended [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome)
 
 #### September 2021:
   * Teaching Assistant on [Carpentries@Manchester: Data Carpentry Workshop (R)](https://uk-carpentries.github.io/2021-09-14-manchester-online/), covering good practice for minimising error when using spreadsheets, [OpenRefine](https://openrefine.org) for data cleaning, and R ([tidyverse](https://www.tidyverse.org)) for data analysis.
