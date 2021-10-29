@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a second-year PhD student in cognitive psychology at the University of Manchester. My research explores the cognitive processes involved in extracting meaning from data visualisations. As a founder member of the University of Manchester’s Open Research Working Group, I am passionate about open science and reproducibility.
+I am a second-year PhD student in cognitive psychology at the University of Manchester. My research explores the cognitive processes involved in extracting meaning from data visualisations, and the influence of design choices on the interpretation of presented information. As a founder member of the University of Manchester’s Open Research Working Group, I am passionate about open science and reproducibility.
 
 ---
 
