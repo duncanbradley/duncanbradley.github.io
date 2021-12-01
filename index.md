@@ -8,6 +8,9 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 
 ### Recent Activities
 
+#### November 2021:
+  * * Graduate Teaching Assistant for [*Reproducible Data Science*](https://www.manchester.ac.uk/study/undergraduate/courses/2022/10111/msci-biology/course-details/BIOL33031#course-unit-details) on Biological Sciences MSci Programmes
+
 #### October 2021:
   * Attended [*Introduction to the Unix Shell*](https://gcapes.github.io/shell-novice/) workshop, covering automation of repetitive/lengthy tasks through a command-line interface. Run by University of Manchester IT Services.
   * Attended [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome)
