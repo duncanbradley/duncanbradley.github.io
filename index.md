@@ -9,7 +9,7 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 ### Recent Activities
 
 #### January 2022:
-  * Attended [*Automation and Make*](http://swcarpentry.github.io/make-novice/) workshop, covering construction of Makefiles using the Unix Shell. These files aid capture dependencies between executable programs, data files, visualisations and documents associated with a project, and can update outputs following changes to related files, aiding reproducibility. Run by University of Manchester IT Services.
+  * Attended [*Automation and Make*](http://swcarpentry.github.io/make-novice/) workshop, covering construction of Makefiles using the Unix Shell. These files capture dependencies between executable programs, data files, visualisations and documents associated with a project, and can update outputs following changes to related files, aiding reproducibility. Run by University of Manchester IT Services.
 
 #### December 2021:
   * Attended *How to Become a Reviewer: Developing Reviewing Skills*. Run by [University of Liverpool Management School](https://www.liverpool.ac.uk/management/)
