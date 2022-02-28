@@ -8,6 +8,9 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 
 ### Recent Activities
 
+#### February 2022:
+  * Attended *Introduction to Causal Inference and Directed Acyclic Graphs* workshop, which explained how expressing data-generating mechanisms graphically prior to analysis assists in defining key causal processes, where experimental designs are infeasible. Run by [The UK Reproducibility Network](https://www.ukrn.org).
+
 #### January 2022:
   * Attended [*Automation and Make*](http://swcarpentry.github.io/make-novice/) workshop, covering construction of [*Makefiles*](https://www.gnu.org/software/make/) using the Unix Shell. These files capture dependencies between executable programs, data files, visualisations and documents associated with a project, and can update outputs following changes to related files, aiding reproducibility. Run by University of Manchester IT Services.
 
@@ -26,7 +29,6 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
   * Presented preliminary research at [Manchester Vision Network's](https://sites.manchester.ac.uk/manchester-vision-network/) Annual Research Showcase (online conference)
 
 #### July 2021:
-
   * Wrote a reproducible report on the first empirical study in my PhD in [R Markdown](https://rmarkdown.rstudio.com/articles_intro.html), using [papaja](http://frederikaust.com/papaja_man/). Learnt how to cache computationally expensive models, write equations using LaTeX, and automate citations using [Zotero](https://www.zotero.org). 
   * Completed online data collection for MSc Data Science student's dissertation experiment, using Git for collaborative development of experimental script and materials (project co-supervisor).
 
