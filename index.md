@@ -8,6 +8,9 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 
 ### Recent Activities
 
+#### March 2022
+  * Presented my research  *The Influence of Blank Space and Axis Range on Perceived Magnitude in Data Visualisations* at the [Experimental Psychology Society's](https://eps.ac.uk) Spring Meeting (Keele University). Awarded Grindley Grant for conference attendance.
+
 #### February 2022:
   * Attended *Introduction to Causal Inference and Directed Acyclic Graphs* workshop, which explained how expressing data-generating mechanisms graphically prior to analysis assists in defining key causal processes, where experimental designs are infeasible. Run by [The UK Reproducibility Network](https://www.ukrn.org).
 
@@ -38,9 +41,9 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 
 #### May 2021:
 
+  * Pre-registered [predictions and analysis plan](https://osf.io/23wpn) for the first empirical study in my PhD.
   * Completed data collection for the first empirical study in my PhD, using [Pavlovia](https://www.psychopy.org) and [Prolific](https://www.prolific.co).
   * Attended [*Intermediate Python Programming*](https://uomresearchit.github.io/programming_with_python/) workshop, covering [Matplotlib](https://matplotlib.org), [pandas](https://pandas.pydata.org), and defensive programming. Run by University of Manchester IT Services.
-  * Pre-registered [predictions and analysis plan](https://osf.io/23wpn) for the first empirical study in my PhD.
   
 #### April 2021:
   * Gained ethical approval for the first empirical study in my PhD
