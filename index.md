@@ -8,6 +8,9 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 
 ### Recent Activities
 
+#### May 2022
+  * Presented *The Effects of Design Choices in Data Visualisation*, a talk about psychological research on visual presentations of data, at DNEP for Dummies (University of Manchester).
+
 #### March 2022
   * Presented my research  *The Influence of Blank Space and Axis Range on Perceived Magnitude in Data Visualisations* at the [Experimental Psychology Society's](https://eps.ac.uk) Spring Meeting (Keele University). Awarded Grindley Grant for conference attendance.
 
@@ -15,7 +18,7 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
   * Attended *Introduction to Causal Inference and Directed Acyclic Graphs* workshop, which explained how expressing data-generating mechanisms graphically prior to analysis assists in defining key causal processes, where experimental designs are infeasible. Run by [The UK Reproducibility Network](https://www.ukrn.org).
 
 #### January 2022:
-  * Attended [*Automation and Make*](http://swcarpentry.github.io/make-novice/) workshop, covering construction of [*Makefiles*](https://www.gnu.org/software/make/) using the Unix Shell. These files capture dependencies between executable programs, data files, visualisations and documents associated with a project, and can update outputs following changes to related files, aiding reproducibility. Run by University of Manchester IT Services.
+  * Attended [*Automation and Make*](http://swcarpentry.github.io/make-novice/) workshop, covering construction of [Makefiles](https://www.gnu.org/software/make/) using the Unix Shell. These files capture dependencies between executable programs, data files, visualisations and documents associated with a project, and can update outputs following changes to related files, aiding reproducibility. Run by University of Manchester IT Services.
 
 #### December 2021:
   * Attended *How to Become a Reviewer: Developing Reviewing Skills*. Run by [University of Liverpool Management School](https://www.liverpool.ac.uk/management/)
