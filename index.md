@@ -10,7 +10,7 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 
 #### May 2022
   * Presented *The Effects of Design Choices in Data Visualisation*, a talk about psychological research on visual presentations of data, at DNEP for Dummies (University of Manchester).
-  * Attended [*Managing Academic Software Development*](https://southampton-rsg-training.github.io/project-novice/) workshop, covering project management on GitHub: logging issues, using [kanban boards](https://en.wikipedia.org/wiki/Kanban_(development), creating releases; plus generation of DOIs using [Zenodo](https://about.zenodo.org) and using docstrings for documentation. Run by the [Software Sustainability Institute](https://www.software.ac.uk) and [Southampton Research Software Group](https://rsgsoton.net).
+  * Attended [*Managing Academic Software Development*](https://southampton-rsg-training.github.io/project-novice/) workshop, covering project management on GitHub: logging issues, using [kanban boards](https://en.wikipedia.org/wiki/Kanban_(development)), creating releases; plus generation of DOIs using [Zenodo](https://about.zenodo.org) and using docstrings for documentation. Run by the [Software Sustainability Institute](https://www.software.ac.uk) and [Southampton Research Software Group](https://rsgsoton.net).
   * Attended [*Software Instructor Training*](https://annajiat.github.io/2022-05-20-ttt-ssi-online/) workshop, covering concept-mapping for constructing mental models, prioritisation of highly practical, quickly-learned skills, motivation and feedback, and the benefits and challenges of participatory live coding. Run by the [Software Sustainability Institute](https://www.software.ac.uk)
 
 #### March 2022
