@@ -8,6 +8,9 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 
 ### Recent Activities
 
+#### June 2022
+  * Presented *Effects of Context on Interpretation of Data Visualisations plus Fully-Reproducible Reporting with R and Docker* at the University of Chester’s Psychology Research Seminar (Invited Talk)
+  
 #### May 2022
   * Presented *The Effects of Design Choices in Data Visualisation*, a talk about psychological research on visual presentations of data, at DNEP for Dummies (University of Manchester).
   * Attended [*Managing Academic Software Development*](https://southampton-rsg-training.github.io/project-novice/) workshop, covering project management on GitHub: logging issues, using [kanban boards](https://en.wikipedia.org/wiki/Kanban_(development)), creating releases; plus generation of DOIs using [Zenodo](https://about.zenodo.org) and using docstrings for documentation. Run by the [Software Sustainability Institute](https://www.software.ac.uk) and [Southampton Research Software Group](https://rsgsoton.net).
