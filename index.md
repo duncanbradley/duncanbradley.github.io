@@ -9,7 +9,7 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 ### Recent Activities
 
 #### July 2022
-  * Attended [*High-Dimensional Statistics with R*](https://carpentries-incubator.github.io/high-dimensional-stats-r/) workshop, covering analysis techniques for datasets containing a large number of features. Methods included regularised regression, for fitting linear models with constraints that improve model estimates and predictions; dimensionality reduction (PCA, factor analysis) for capturing latent sources of variability; and cluster analysis (K-means clustering, hierarchical clustering) for grouping correlated variables into clusters with similar features. Run by [Ed-DaSH](https://edcarp.github.io/Ed-DaSH/) at the University of Edinburgh.
+  * Attended [*High-Dimensional Statistics with R*](https://carpentries-incubator.github.io/high-dimensional-stats-r/) workshop, covering analysis techniques for datasets containing a large number of features. Methods included regularised regression for fitting linear models with constraints that improve model estimates and predictions; dimensionality reduction (PCA, factor analysis) for capturing latent sources of variability; and cluster analysis (K-means clustering, hierarchical clustering) for grouping correlated variables into clusters with similar features. Run by [Ed-DaSH](https://edcarp.github.io/Ed-DaSH/) at the University of Edinburgh.
 
 #### June 2022
   * Presented *Effects of Context on Interpretation of Data Visualisations plus Fully-Reproducible Reporting with R and Docker* at the University of Chester’s Psychology Research Seminar (Invited Talk)
