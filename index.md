@@ -8,6 +8,9 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 
 ### Recent Activities
 
+#### July 2022
+  * Attended [*High-Dimensional Statistics with R*](https://carpentries-incubator.github.io/high-dimensional-stats-r/) workshop, covering analysis techniques for datasets containing a large number of features. Methods included regularised regression, for fitting linear models with constraints that improve model estimates and predictions; dimensionality reduction (PCA, factor analysis) for capturing latent sources of variability; and cluster analysis (K-means clustering, hierarchical clustering) for grouping correlated variables into clusters with similar features. Run by [Ed-DaSH](https://edcarp.github.io/Ed-DaSH/) at the University of Edinburgh.
+
 #### June 2022
   * Presented *Effects of Context on Interpretation of Data Visualisations plus Fully-Reproducible Reporting with R and Docker* at the University of Chester’s Psychology Research Seminar (Invited Talk)
   
@@ -25,11 +28,8 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 #### January 2022:
   * Attended [*Automation and Make*](http://swcarpentry.github.io/make-novice/) workshop, covering construction of [Makefiles](https://www.gnu.org/software/make/) using the Unix Shell. These files capture dependencies between executable programs, data files, visualisations and documents associated with a project, and can update outputs following changes to related files, aiding reproducibility. Run by University of Manchester IT Services.
 
-#### December 2021:
-  * Attended *How to Become a Reviewer: Developing Reviewing Skills*. Run by [University of Liverpool Management School](https://www.liverpool.ac.uk/management/)
-
 #### November 2021:
-  * Graduate Teaching Assistant for [*Reproducible Data Science*](https://www.manchester.ac.uk/study/undergraduate/courses/2022/10111/msci-biology/course-details/BIOL33031#course-unit-details) on Biological Sciences MSci Programmes
+  * Graduate Teaching Assistant for [*BIOL33031 Reproducible Data Science*](https://www.manchester.ac.uk/study/undergraduate/courses/2022/10111/msci-biology/course-details/BIOL33031#course-unit-details) on Biological Sciences MSci Programmes (University of Manchester), covering data wrangling, data visualisation, and statistical modelling, in a reproducible manner.
 
 #### October 2021:
   * Attended [*Introduction to the Unix Shell*](https://gcapes.github.io/shell-novice/) workshop, covering automation of large, repetitive tasks through a command-line interface. Run by University of Manchester IT Services.
@@ -69,7 +69,7 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 
 #### November 2020:
   * Graduated MRes Psychology at the University of Manchester (with distinction and Programme Prize)
-  * Graduate Teaching Assistant for [*Reproducible Data Science*](https://www.manchester.ac.uk/study/undergraduate/courses/2021/10111/msci-biology/course-details/BIOL33031#course-unit-details) on Biological Sciences MSci Programmes
+  * Graduate Teaching Assistant for [*BIOL33031 Reproducible Data Science*](https://www.manchester.ac.uk/study/undergraduate/courses/2021/10111/msci-biology/course-details/BIOL33031#course-unit-details) on Biological Sciences MSci Programmes (University of Manchester), covering data wrangling, data visualisation, and statistical modelling, in a reproducible manner.
   * Student Helper at [Methods@Manchester Methods Fair 2020](https://www.methods.manchester.ac.uk/connect/events/methods-fair/) (monitoring discussion board; facilitating Zoom sessions; answering queries).
 
 #### October 2020:
