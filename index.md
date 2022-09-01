@@ -9,7 +9,7 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 ### Recent Activities
 
 #### August 2022
-  * Attended foundational workshops run by General Assembly: Intro to SQL (queries for interrogating databases), Intro to UX Design (approaches for designing effective interfaces, identifying user needs) and Intro to Tableau (building charts, maps and dashboards for business intelligence).
+  * Attended foundational workshops run by [General Assembly](https://generalassemb.ly): *Intro to SQL* (queries for interrogating databases), *Intro to UX Design* (approaches for designing effective interfaces, identifying user needs) and *Intro to Tableau* (building charts, maps, and dashboards for business intelligence).
 
 #### July 2022
   * Attended [*High-Dimensional Statistics with R*](https://carpentries-incubator.github.io/high-dimensional-stats-r/) workshop, covering analysis techniques for datasets containing a large number of features. Methods included regularised regression for fitting linear models with constraints that improve model estimates and predictions; dimensionality reduction (PCA, factor analysis) for capturing latent sources of variability; and cluster analysis (K-means clustering, hierarchical clustering) for grouping correlated variables into clusters with similar features. Run by [Ed-DaSH](https://edcarp.github.io/Ed-DaSH/) at the University of Edinburgh.
