@@ -8,6 +8,9 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 
 ### Recent Activities
 
+#### August 2022
+  * Attended foundational workshops run by General Assembly: Intro to SQL (queries for interrogating databases), Intro to UX Design (approaches for designing effective interfaces, identifying user needs) and Intro to Tableau (building charts, maps and dashboards for business intelligence).
+
 #### July 2022
   * Attended [*High-Dimensional Statistics with R*](https://carpentries-incubator.github.io/high-dimensional-stats-r/) workshop, covering analysis techniques for datasets containing a large number of features. Methods included regularised regression for fitting linear models with constraints that improve model estimates and predictions; dimensionality reduction (PCA, factor analysis) for capturing latent sources of variability; and cluster analysis (K-means clustering, hierarchical clustering) for grouping correlated variables into clusters with similar features. Run by [Ed-DaSH](https://edcarp.github.io/Ed-DaSH/) at the University of Edinburgh.
 
@@ -26,13 +29,13 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
   * Attended *Introduction to Causal Inference and Directed Acyclic Graphs* workshop, which explained how expressing data-generating mechanisms graphically prior to analysis assists in defining key causal processes, where experimental designs are infeasible. Run by [The UK Reproducibility Network](https://www.ukrn.org).
 
 #### January 2022:
-  * Attended [*Automation and Make*](http://swcarpentry.github.io/make-novice/) workshop, covering construction of [Makefiles](https://www.gnu.org/software/make/) using the Unix Shell. These files capture dependencies between executable programs, data files, visualisations and documents associated with a project, and can update outputs following changes to related files, aiding reproducibility. Run by University of Manchester IT Services.
+  * Attended [*Automation and Make*](http://swcarpentry.github.io/make-novice/) workshop, covering construction of [Makefiles](https://www.gnu.org/software/make/) using the Unix Shell. These files capture dependencies between executable programs, data files, visualisations and documents associated with a project, and can update outputs following changes to related files, aiding reproducibility. Run by the University of Manchester IT Services.
 
 #### November 2021:
   * Graduate Teaching Assistant for [*BIOL33031 Reproducible Data Science*](https://www.manchester.ac.uk/study/undergraduate/courses/2022/10111/msci-biology/course-details/BIOL33031#course-unit-details) on Biological Sciences MSci Programmes (University of Manchester), covering data wrangling, data visualisation, and statistical modelling, in a reproducible manner.
 
 #### October 2021:
-  * Attended [*Introduction to the Unix Shell*](https://gcapes.github.io/shell-novice/) workshop, covering automation of large, repetitive tasks through a command-line interface. Run by University of Manchester IT Services.
+  * Attended [*Introduction to the Unix Shell*](https://gcapes.github.io/shell-novice/) workshop, covering automation of large, repetitive tasks through a command-line interface. Run by the University of Manchester IT Services.
   * Attended [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome)
 
 #### September 2021:
@@ -51,7 +54,7 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 
   * Pre-registered [predictions and analysis plan](https://osf.io/23wpn) for the first empirical study in my PhD.
   * Completed data collection for the first empirical study in my PhD, using [Pavlovia](https://www.psychopy.org) and [Prolific](https://www.prolific.co).
-  * Attended [*Intermediate Python Programming*](https://uomresearchit.github.io/programming_with_python/) workshop, covering [Matplotlib](https://matplotlib.org), [pandas](https://pandas.pydata.org), and defensive programming. Run by University of Manchester IT Services.
+  * Attended [*Intermediate Python Programming*](https://uomresearchit.github.io/programming_with_python/) workshop, covering [Matplotlib](https://matplotlib.org), [pandas](https://pandas.pydata.org), and defensive programming. Run by the University of Manchester IT Services.
   
 #### April 2021:
   * Gained ethical approval for the first empirical study in my PhD
