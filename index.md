@@ -2,11 +2,14 @@
 layout: default
 ---
 
-I am a second-year PhD student in cognitive psychology at the University of Manchester. My research explores the cognitive processes involved in extracting meaning from data visualisations, and the influence of design choices on the interpretation of presented information. As a founder member of the University of Manchester’s Open Research Working Group, I am passionate about open science and reproducibility.
+I am a final-year PhD student in cognitive psychology at the University of Manchester. My research explores the cognitive processes involved in extracting meaning from data visualisations, and the influence of design choices on the interpretation of presented information. As a founder member of the University of Manchester’s Open Research Working Group, I am passionate about open science and reproducibility.
 
 ---
 
 ### Recent Activities
+
+#### October 2022
+  * Co-Instructor for [*BIOL63101 Advanced Data Skills, Open Science and Reproducibility*](https://www.manchester.ac.uk/study/masters/courses/list/18907/mres-cognitive-neuroscience-and-neuropsychology/course-details/BIOL63101#course-unit-details) on *MRes Experimental Psychology with Data Science* and *MRes Cognitive Neuroscience and Neuropsychology* programmes (University of Manchester). Leading live-coding sessions on reproducible data wrangling, data visualisation, and statistical modelling in R.
 
 #### August 2022
   * Attended foundational workshops run by [General Assembly](https://generalassemb.ly): *Intro to SQL* (queries for interrogating databases), *Intro to UX Design* (approaches for designing effective interfaces, identifying user needs) and *Intro to Tableau* (building charts, maps, and dashboards for business intelligence).
@@ -72,7 +75,7 @@ I am a second-year PhD student in cognitive psychology at the University of Manc
 
 #### November 2020:
   * Graduated MRes Psychology at the University of Manchester (with distinction and Programme Prize)
-  * Graduate Teaching Assistant for [*BIOL33031 Reproducible Data Science*](https://www.manchester.ac.uk/study/undergraduate/courses/2021/10111/msci-biology/course-details/BIOL33031#course-unit-details) on Biological Sciences MSci Programmes (University of Manchester), covering data wrangling, data visualisation, and statistical modelling, in a reproducible manner.
+  * Graduate Teaching Assistant for [*BIOL33031 Reproducible Data Science*](https://www.manchester.ac.uk/study/undergraduate/courses/2021/10111/msci-biology/course-details/BIOL33031#course-unit-details) on Biological Sciences MSci Programmes (University of Manchester), covering R for data wrangling, data visualisation, and statistical modelling, in a reproducible manner.
   * Student Helper at [Methods@Manchester Methods Fair 2020](https://www.methods.manchester.ac.uk/connect/events/methods-fair/) (monitoring discussion board; facilitating Zoom sessions; answering queries).
 
 #### October 2020:
