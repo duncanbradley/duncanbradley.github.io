@@ -10,6 +10,7 @@ I am a final-year PhD student in cognitive psychology at the University of Manch
 
 #### October 2022
   * Co-Instructor for [*BIOL63101 Advanced Data Skills, Open Science and Reproducibility*](https://www.manchester.ac.uk/study/masters/courses/list/18907/mres-cognitive-neuroscience-and-neuropsychology/course-details/BIOL63101#course-unit-details) on *MRes Experimental Psychology with Data Science* and *MRes Cognitive Neuroscience and Neuropsychology* programmes (University of Manchester). Leading live-coding sessions on reproducible data wrangling, data visualisation, and statistical modelling in R.
+    * Attended [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome) (online)
 
 #### August 2022
   * Attended foundational workshops run by [General Assembly](https://generalassemb.ly): *Intro to SQL* (queries for interrogating databases), *Intro to UX Design* (approaches for designing effective interfaces, identifying user needs) and *Intro to Tableau* (building charts, maps, and dashboards for business intelligence).
