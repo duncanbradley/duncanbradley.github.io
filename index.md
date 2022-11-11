@@ -9,7 +9,7 @@ I am a final-year PhD student in cognitive psychology at the University of Manch
 ### Recent Activities
 
 #### November 2022
-  * Presented *Cognitive Processing of Magnitude In Data Visualisations* at the University of Bristol [(Bristol DataViz Group)](https://dataviz.blogs.bristol.ac.uk).
+  * Presented [*Cognitive Processing of Magnitude In Data Visualisations*](https://dataviz.blogs.bristol.ac.uk/280/1st-november-2022-cognitive-processing-of-magnitude-in-data-visualisations/) at the University of Bristol [(Bristol DataViz Group)](https://dataviz.blogs.bristol.ac.uk).
   
 #### October 2022
   * Co-Instructor for [*BIOL63101 Advanced Data Skills, Open Science and Reproducibility*](https://www.manchester.ac.uk/study/masters/courses/list/18907/mres-cognitive-neuroscience-and-neuropsychology/course-details/BIOL63101#course-unit-details) on *MRes Experimental Psychology with Data Science* and *MRes Cognitive Neuroscience and Neuropsychology* programmes (University of Manchester). Leading live-coding sessions on reproducible data wrangling, data visualisation, and statistical modelling in R.
