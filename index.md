@@ -9,6 +9,7 @@ I am a final-year PhD student in cognitive psychology at the University of Manch
 ### Recent Activities
 
 #### January 2023
+  * Attended [*Communicating Mathematics for the Public*](https://www.newton.ac.uk/event/tgm127/) workshop, run by the [Isaac Newton Institute](https://www.newton.ac.uk/) (University of Cambridge).
   * Presented a research poster [*Data Framing: Magnitude Judgements Are Influenced by Upper Bounds in Bar Charts and Choropleth Maps*](https://youtu.be/se7H8SxBPJc) at the [Experimental Psychology Society's](https://eps.ac.uk) London Meeting (University College London).
   
 #### November 2022
