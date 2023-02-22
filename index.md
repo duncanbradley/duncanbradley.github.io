@@ -9,6 +9,7 @@ I am a final-year PhD student in cognitive psychology at the University of Manch
 ### Recent Activities
 
 #### January 2023
+  * Instructor for [*BIOL63112 Mixed Models, Hackathon and Bayesian Statistics Workshop*](https://www.manchester.ac.uk/study/masters/courses/list/18906/mres-experimental-psychology-with-data-science/course-details/BIOL63112#course-unit-details) and [*BIOL63162 Scientific Programming, Computational Tools and Machine Learning*](https://www.manchester.ac.uk/study/masters/courses/list/18906/mres-experimental-psychology-with-data-science/course-details/BIOL63162#course-unit-details) (University of Manchester). Leading interactive programming sessions on mixed-effects modelling with R; programming and analysis with Python; version control (Git + GitHub); and reproducible environments (Docker + DockerHub).
   * Attended [*Communicating Mathematics for the Public*](https://www.newton.ac.uk/event/tgm127/) workshop, run by the [Isaac Newton Institute](https://www.newton.ac.uk/) (University of Cambridge).
   * Presented a research poster [*Data Framing: Magnitude Judgements Are Influenced by Upper Bounds in Bar Charts and Choropleth Maps*](https://youtu.be/se7H8SxBPJc) at the [Experimental Psychology Society's](https://eps.ac.uk) London Meeting (University College London).
   
@@ -16,7 +17,7 @@ I am a final-year PhD student in cognitive psychology at the University of Manch
   * Presented [*Cognitive Processing of Magnitude In Data Visualisations*](https://dataviz.blogs.bristol.ac.uk/280/1st-november-2022-cognitive-processing-of-magnitude-in-data-visualisations/) at the University of Bristol [(Bristol DataViz Group)](https://dataviz.blogs.bristol.ac.uk).
   
 #### October 2022
-  * Co-Instructor for [*BIOL63101 Advanced Data Skills, Open Science and Reproducibility*](https://www.manchester.ac.uk/study/masters/courses/list/18907/mres-cognitive-neuroscience-and-neuropsychology/course-details/BIOL63101#course-unit-details) on *MRes Experimental Psychology with Data Science* and *MRes Cognitive Neuroscience and Neuropsychology* programmes (University of Manchester). Leading interactive programming sessions on reproducible data wrangling, data visualisation, and statistical modelling in R.
+  * Instructor for [*BIOL63101 Advanced Data Skills, Open Science and Reproducibility*](https://www.manchester.ac.uk/study/masters/courses/list/18907/mres-cognitive-neuroscience-and-neuropsychology/course-details/BIOL63101#course-unit-details) on *MRes Experimental Psychology with Data Science* and *MRes Cognitive Neuroscience and Neuropsychology* programmes (University of Manchester). Leading interactive programming sessions on reproducible data wrangling, data visualisation, and statistical modelling in R.
   * Attended [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome) (online)
 
 #### August 2022
