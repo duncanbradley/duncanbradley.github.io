@@ -8,6 +8,9 @@ I am a final-year PhD student in cognitive psychology at the University of Manch
 
 ### Recent Activities
 
+#### April 2023
+  * Attended [SatRdays London 2023](https://satrday-london-2023.jumpingrivers.com/). Talks covered the use of R for a wide range of applications, including model deployment, automated reports, air quality visualisation, financial model auditing, and data-driven journalism. Organised by [Jumping Rivers](https://www.jumpingrivers.com/).
+
 #### March 2023
   * Attended web development workshops run by [Le Wagon](https://www.lewagon.com/), covering HTML, CSS, and Javascript.
 
