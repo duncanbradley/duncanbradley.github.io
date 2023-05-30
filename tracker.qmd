@@ -1,0 +1,98 @@
+---
+title: "Untitled"
+format: 
+    html:
+        self-contained: true
+editor: visual
+
+execute:
+  echo: false
+---
+
+```{r}
+library(r2d3)
+```
+
+```{r}
+dates <- seq(as.Date("2023-06-29"), as.Date("2023-08-28"), by="days")
+
+ojs_define(dts = dQuote(dates))
+```
+
+```{r}
+#| label: word-count-data
+words <- c(800, 700, 600)
+wordcount <- data.frame(day=dQuote(dates), words=c(words, rep(0, 61-length(words))))
+
+ojs_define(wordcountdata = wordcount)
+```
+
+```{r}
+#| label: pomodoro-data
+sessions <- c(8, 7, 6)
+pomodoro <- data.frame(day=dQuote(dates), sessions=c(sessions, rep(-2, 61-length(sessions)))) #|> uncount(sessions, .remove = F) 
+
+pomodorodata <- jsonlite::toJSON(pomodoro)
+ojs_define(pomodorodata = pomodorodata)
+```
+
+```{ojs}
+wordcountdataParsed = transpose(wordcountdata).map(({day, ...rest}) => {
+  return {
+    day: new Date(day),
+    ...rest
+  };
+})
+
+Plot.plot({
+  x: {
+    label: null
+  },
+  y: {
+    grid: true,
+    label: "Word Count"
+  },
+  marks: [
+    Plot.rectY(wordcountdataParsed,
+    {x: "day", 
+    interval: d3.utcDay, 
+    y: "words"})
+    ]
+})
+
+// https://observablehq.com/d/146613c19e64e656
+```
+
+```{ojs}
+
+//pomodorodataParsed = transpose(pomodorodata).map//(({day, ...rest}) => {
+//  return {
+//    day: new Date(day),
+//    ...rest
+//  };
+//})
+
+Plot.plot({
+  x: {
+    label: null
+    },
+  y: {
+    grid: false,
+    ticks: false,
+    label: "Word Count",
+    domain: [0,10]
+  },
+  marks: [
+  Plot.ruleY([0], { stroke: '#555' }),
+    Plot.dot(pomodorodata,
+      Plot.stackY
+      ({
+      x: "day", 
+      interval: d3.utcDay, 
+      y: "sessions",
+      r: 6,
+      fill: true})
+      )
+    ]
+})
+```
