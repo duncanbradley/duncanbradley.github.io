@@ -9,7 +9,7 @@ I am a final-year PhD student in cognitive psychology at the University of Manch
 ### Recent Activities
 
 #### May 2023
-  * My article [*Taking Time Is an Effective Way To Process Large Numbers*](https://nightingaledvs.com/time-dimension-in-data-visualization/) was published in Nightingale, the journal of the [Data Visualisation Society](https://www.datavisualizationsociety.org). I explain how the National Covid Memorial Wall is a giant data visualisation, and discuss why the time required to view its entirety helps to effectively convey the true scale of the death toll. 
+  * My article [*Taking Time Is an Effective Way To Process Large Numbers*](https://nightingaledvs.com/time-dimension-in-data-visualization/) was published in Nightingale, the journal of the [Data Visualisation Society](https://www.datavisualizationsociety.org). I explore a neglected temporal aspect of data visualisation which may help to effectively communicate a number’s true scale. 
 
 #### April 2023
   *  Attended [*Introduction to Data Wrangling and Analysis in JavaScript workshop*](https://observablehq.com/@observablehq/introdwjavascript), covering built-in functions for manipulating arrays and generating summary statistics, [Arquero library](https://observablehq.com/@uwdata/arquero-and-d3) for transforming data tables, D3 for data visualisation, and interactivity. Run by [Observable](https://observablehq.com/).
