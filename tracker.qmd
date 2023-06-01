@@ -15,14 +15,12 @@ library(r2d3)
 
 ```{r}
 dates <- seq(as.Date("2023-06-29"), as.Date("2023-08-28"), by="days")
-
-ojs_define(dts = dQuote(dates))
 ```
 
 ```{r}
 #| label: word-count-data
 words <- c(800, 700, 600)
-wordcount <- data.frame(day=(dates), words=c(words, rep(0, 61-length(words))))
+wordcount <- data.frame(day=dates, words=c(words, rep(0, 61-length(words))))
 
 ojs_define(wordcountdata = wordcount)
 ```
@@ -30,19 +28,14 @@ ojs_define(wordcountdata = wordcount)
 ```{r}
 #| label: pomodoro-data
 sessions <- c(8, 7, 6)
-pomodoro <- data.frame(day=(dates), sessions=c(sessions, rep(-2, 61-length(sessions))))
+pomodoro <- data.frame(day=dates, sessions=c(sessions, rep(-3, 61-length(sessions))))
 
 ojs_define(pomodorodata = pomodoro)
 ```
 
 ```{ojs}
 wordcountdataParsed = transpose(wordcountdata)
-//wordcountdataParsed = transpose(wordcountdata).map(({day, ...rest}) => {
-//  return {
-//    day: new Date(day),
-//    ...rest
-//  };
-//})
+wordcountdataParsed.words
 
 Plot.plot({
   x: {
@@ -54,7 +47,7 @@ Plot.plot({
   },
   marks: [
     Plot.rectY(wordcountdataParsed,
-    {x: Date("day"), 
+    {x: (d) => new Date(d.day), 
     interval: d3.utcDay, 
     y: "words"})
     ]
@@ -66,21 +59,14 @@ Plot.plot({
 ```{ojs}
 pomodorodataParsed = transpose(pomodorodata)
 
-//pomodorodataParsed = transpose(pomodorodata).map(({day, ...rest}) => {
-//  return {
-//    day: new Date(day),
-//    ...rest
-//  };
-//})
-
 Plot.plot({
   x: {
     label: null
     },
   y: {
     grid: false,
-    ticks: false,
-    label: "Word Count",
+    ticks: true,
+    label: "Sessions",
     domain: [0,10]
   },
   marks: [
@@ -95,49 +81,5 @@ Plot.plot({
       fill: true})
       )
     ]
-})
-```
-
-```{r}
-#| output: false
-
-library(readr)
-library(dplyr)
-
-co2 = read_csv("co2_mm.csv")  %>% 
-  group_by(year) %>% 
-  summarize(max = max(average))
-
-ojs_define(co2data = co2)
-```
-
-```{ojs}
-yearlyChart = Plot.plot({
-  marks: [
-    Plot.line(transpose(co2data), 
-      {x: "year", y: "max"}, 
-      { stroke: "black" }
-    )
-  ]}
-)
-```
-
-```{ojs}
-data2 = {
-  const co2data = await FileAttachment("co2_mm.csv")
-    .csv({ typed: true } );
-  return co2data.map(d => { 
-    d["decimal date"] = Number(d["decimal date"]);
-    d.average = Number(d.average); 
-    return d; 
-  });
-}
-Plot.plot({
-  marks: [
-    Plot.line(data2, 
-      { x: "decimal date", y: "average"}, 
-      { stroke: "black" }
-    )
-  ]
 })
 ```
