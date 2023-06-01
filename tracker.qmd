@@ -54,7 +54,7 @@ Plot.plot({
   },
   marks: [
     Plot.rectY(wordcountdataParsed,
-    {x: "day", 
+    {x: Date("day"), 
     interval: d3.utcDay, 
     y: "words"})
     ]
@@ -88,7 +88,7 @@ Plot.plot({
     Plot.dot(pomodorodataParsed,
       Plot.stackY
       ({
-      x: "day", 
+      x: (d) => new Date(d.day), 
       interval: d3.utcDay, 
       y: "sessions",
       r: 6,
