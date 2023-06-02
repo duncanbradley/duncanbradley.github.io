@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: ""
 format: 
     html:
         self-contained: true
@@ -8,6 +8,10 @@ editor: visual
 execute:
   echo: false
 ---
+
+### Progress Tracker
+
+------------------------------------------------------------------------
 
 ```{r}
 library(r2d3)
@@ -19,7 +23,7 @@ dates <- seq(as.Date("2023-06-29"), as.Date("2023-08-28"), by="days")
 
 ```{r}
 #| label: word-count-data
-words <- c(800, 700, 600)
+words <- c()
 wordcount <- data.frame(day=dates, words=c(words, rep(0, 61-length(words))))
 
 ojs_define(wordcountdata = wordcount)
@@ -27,7 +31,7 @@ ojs_define(wordcountdata = wordcount)
 
 ```{r}
 #| label: pomodoro-data
-sessions <- c(8, 7, 6)
+sessions <- c()
 pomodoro <- data.frame(day=dates, sessions=c(sessions, rep(-3, 61-length(sessions))))
 
 ojs_define(pomodorodata = pomodoro)
@@ -35,7 +39,6 @@ ojs_define(pomodorodata = pomodoro)
 
 ```{ojs}
 wordcountdataParsed = transpose(wordcountdata)
-wordcountdataParsed.words
 
 Plot.plot({
   x: {
@@ -43,7 +46,8 @@ Plot.plot({
   },
   y: {
     grid: true,
-    label: "Word Count"
+    label: "Word Count",
+    domain: [0,800]
   },
   marks: [
     Plot.rectY(wordcountdataParsed,
@@ -56,6 +60,10 @@ Plot.plot({
 // https://observablehq.com/d/146613c19e64e656
 ```
 
+Number of words written per day ([800 words = 1 Conrad](https://www.theguardian.com/books/2016/jun/18/my-writing-day-will-self))
+
+------------------------------------------------------------------------
+
 ```{ojs}
 pomodorodataParsed = transpose(pomodorodata)
 
@@ -64,22 +72,19 @@ Plot.plot({
     label: null
     },
   y: {
-    grid: false,
-    ticks: true,
     label: "Sessions",
     domain: [0,10]
   },
   marks: [
-  Plot.ruleY([0], { stroke: '#555' }),
+    Plot.ruleY([0]),
     Plot.dot(pomodorodataParsed,
-      Plot.stackY
-      ({
-      x: (d) => new Date(d.day), 
-      interval: d3.utcDay, 
-      y: "sessions",
-      r: 6,
-      fill: true})
-      )
+    {x: (d) => new Date(d.day), 
+    interval: d3.utcDay, 
+    y: "sessions",
+    r: 6,
+    fill: true})
     ]
 })
 ```
+
+Number of pomodoro sessions per day 🍅
