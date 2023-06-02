@@ -7,6 +7,8 @@ editor: visual
 
 execute:
   echo: false
+  
+font-size: 14px
 ---
 
 ### Progress Tracker
@@ -37,10 +39,12 @@ pomodoro <- data.frame(day=dates, sessions=c(sessions, rep(-3, 61-length(session
 ojs_define(pomodorodata = pomodoro)
 ```
 
+::: {layout-ncol="2"}
 ```{ojs}
 wordcountdataParsed = transpose(wordcountdata)
 
 Plot.plot({
+  caption: "Number of words written per day 📝",
   x: {
     label: null
   },
@@ -57,17 +61,15 @@ Plot.plot({
     ]
 })
 
-// https://observablehq.com/d/146613c19e64e656
 ```
 
-Number of words written per day ([800 words = 1 Conrad](https://www.theguardian.com/books/2016/jun/18/my-writing-day-will-self))
-
-------------------------------------------------------------------------
-
 ```{ojs}
+//| fontsize: 15
+
 pomodorodataParsed = transpose(pomodorodata)
 
 Plot.plot({
+  caption: "Number of pomodoro sessions per day 🍅",
   x: {
     label: null
     },
@@ -86,5 +88,6 @@ Plot.plot({
     ]
 })
 ```
+:::
 
-Number of pomodoro sessions per day 🍅
+[800 words = 1 Conrad](https://www.theguardian.com/books/2016/jun/18/my-writing-day-will-self)
