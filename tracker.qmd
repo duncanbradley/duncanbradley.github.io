@@ -20,21 +20,21 @@ library(r2d3)
 ```
 
 ```{r}
-dates <- seq(as.Date("2023-06-29"), as.Date("2023-08-28"), by="days")
+dates <- seq(as.Date("2023-06-28"), as.Date("2023-08-15"), by="days")
 ```
 
 ```{r}
 #| label: word-count-data
-words <- c()
-wordcount <- data.frame(day=dates, words=c(words, rep(0, 61-length(words))))
+words <- c(975)
+wordcount <- data.frame(day=dates, words=c(words, rep(0, length(dates)-length(words))))
 
 ojs_define(wordcountdata = wordcount)
 ```
 
 ```{r}
 #| label: pomodoro-data
-sessions <- c()
-pomodoro <- data.frame(day=dates, sessions=c(sessions, rep(-3, 61-length(sessions))))
+sessions <- c(12)
+pomodoro <- data.frame(day=dates, sessions=c(sessions, rep(-3, length(dates)-length(sessions))))
 
 ojs_define(pomodorodata = pomodoro)
 ```
@@ -51,9 +51,10 @@ Plot.plot({
   y: {
     grid: true,
     label: "Word Count",
-    domain: [0,800]
+    domain: [0,1000]
   },
   marks: [
+    Plot.ruleY([0]),
     Plot.rectY(wordcountdataParsed,
     {x: (d) => new Date(d.day), 
     interval: d3.utcDay, 
@@ -75,7 +76,7 @@ Plot.plot({
     },
   y: {
     label: "Sessions",
-    domain: [0,10]
+    domain: [0,14]
   },
   marks: [
     Plot.ruleY([0]),
