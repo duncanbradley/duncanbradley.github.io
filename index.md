@@ -8,6 +8,10 @@ I am a final-year PhD student in cognitive psychology at the University of Manch
 
 ### Recent Activities
 
+#### July 2023
+
+  * Presented *The Psychology of Data Visualisations: Leading and Misleading*, at [London Data Visualisation](https://twitter.com/LondonDataVis). I discussed how experimental methods can help reveal how design choices change the message conveyed by a chart. 
+
 #### May 2023
   * My article [*Taking Time Is an Effective Way To Process Large Numbers*](https://nightingaledvs.com/time-dimension-in-data-visualization/) was published in Nightingale, the journal of the [Data Visualisation Society](https://www.datavisualizationsociety.org). I explore a neglected temporal aspect of data visualisation which may help to effectively communicate a number’s true scale. 
 
