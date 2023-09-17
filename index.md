@@ -8,6 +8,10 @@ I am a final-year PhD student in cognitive psychology at the University of Manch
 
 ### Recent Activities
 
+#### September 2023
+
+  * Presented *More or Less: Interpretations of Absolute Magnitude in Data Visualisations (Lightning Talk)*, at ([#VizTIG Symposium 2023](https://www.turing.ac.uk/events/visualization-turing-interest-group-5th-symposium). Organised by [CUSP London](https://cusplondon.ac.uk) and the [Alan Turing Institute](https://www.turing.ac.uk).
+
 #### July 2023
 
   * Presented *The Psychology of Data Visualisations: Leading and Misleading*, at [London Data Visualisation](https://twitter.com/LondonDataVis). I discussed how experimental methods can help reveal how design choices change the message conveyed by a chart. 
