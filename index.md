@@ -8,12 +8,13 @@ I am a final-year PhD student in cognitive psychology at the University of Manch
 
 ### Recent Activities
 
-#### September 2023
+#### October 2023
+  * The first paper from my PhD, [*Choropleth Maps Can Convey Absolute Magnitude Through the Range of the Accompanying Colour Legend*](https://doi.org/10.1080/0144929X.2023.2260889), was published in Behaviour and Information Technology (Open Access).
 
+#### September 2023
   * Presented *More or Less: Interpretations of Absolute Magnitude in Data Visualisations*, at [#VizTIG Symposium 2023](https://www.turing.ac.uk/events/visualization-turing-interest-group-5th-symposium) (Lightning Talk). Organised by [CUSP London](https://cusplondon.ac.uk) and the [Alan Turing Institute](https://www.turing.ac.uk).
 
 #### July 2023
-
   * Presented *The Psychology of Data Visualisations: Leading and Misleading*, at [London Data Visualisation](https://twitter.com/LondonDataVis). I discussed how experimental methods can help reveal how design choices change the message conveyed by a chart. 
 
 #### May 2023
@@ -48,7 +49,6 @@ I am a final-year PhD student in cognitive psychology at the University of Manch
   * Presented *Effects of Context on Interpretation of Data Visualisations plus Fully-Reproducible Reporting with R and Docker* at the University of Chester’s Psychology Research Seminar (Invited Talk)
   
 #### May 2022
-  * Presented *The Effects of Design Choices in Data Visualisation*, a talk about psychological research on visual presentations of data, at DNEP for Dummies (University of Manchester).
   * Attended [*Managing Academic Software Development*](https://southampton-rsg-training.github.io/project-novice/) workshop, covering project management on GitHub: logging issues, using [kanban boards](https://en.wikipedia.org/wiki/Kanban_(development)), creating releases; plus generation of DOIs using [Zenodo](https://about.zenodo.org) and using docstrings for documentation. Run by the [Software Sustainability Institute](https://www.software.ac.uk) and [Southampton Research Software Group](https://rsgsoton.net).
   * Attended [*Software Instructor Training*](https://annajiat.github.io/2022-05-20-ttt-ssi-online/) workshop, covering concept-mapping for constructing mental models, prioritisation of highly practical, quickly-learned skills, motivation and feedback, and the benefits and challenges of participatory live coding. Run by the [Software Sustainability Institute](https://www.software.ac.uk).
 
@@ -70,24 +70,13 @@ I am a final-year PhD student in cognitive psychology at the University of Manch
 
 #### September 2021:
   * Teaching Assistant on [Carpentries@Manchester: Data Carpentry Workshop (R)](https://uk-carpentries.github.io/2021-09-14-manchester-online/), covering good practice for minimising error when using spreadsheets, [OpenRefine](https://openrefine.org) for data cleaning, and R ([tidyverse](https://www.tidyverse.org)) for data analysis.
-  * Presented preliminary research at [Manchester Vision Network's](https://sites.manchester.ac.uk/manchester-vision-network/) Annual Research Showcase (online conference)
-
-#### July 2021:
-  * Wrote a reproducible report on the first empirical study in my PhD in [R Markdown](https://rmarkdown.rstudio.com/articles_intro.html), using [papaja](http://frederikaust.com/papaja_man/). Learnt how to cache computationally expensive models, write equations using LaTeX, and automate citations using [Zotero](https://www.zotero.org). 
-  * Completed online data collection for MSc Data Science student's dissertation experiment, using Git for collaborative development of experimental script and materials (project co-supervisor).
+  * Presented preliminary research at [Manchester Vision Network's](https://sites.manchester.ac.uk/manchester-vision-network/) Annual Research Showcase (online conference).
 
 #### June 2021:
-
   * Attended [*Simulation Summer School*](https://simsummerschool.github.io), covering simulation for factorial experiments, binary response data, Bayesian analysis, and power analysis. Organised by [PsyPAG](http://psypag.co.uk) and [BPS MSCP Section](https://www.bps.org.uk/member-microsites/mathematical-statistical-and-computing-psychology-section).
 
 #### May 2021:
-
-  * Pre-registered [predictions and analysis plan](https://osf.io/23wpn) for the first empirical study in my PhD.
-  * Completed data collection for the first empirical study in my PhD, using [Pavlovia](https://www.psychopy.org) and [Prolific](https://www.prolific.co).
   * Attended [*Intermediate Python Programming*](https://uomresearchit.github.io/programming_with_python/) workshop, covering [Matplotlib](https://matplotlib.org), [pandas](https://pandas.pydata.org), and defensive programming. Run by the University of Manchester IT Services.
-  
-#### April 2021:
-  * Gained ethical approval for the first empirical study in my PhD
 
 #### March 2021:
   * Attended [*Boost your Research Reproducibility with Binder*](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-r.md) workshop, covering how to reproduce computational environments online. Run by [The Turing Way](https://the-turing-way.netlify.app/welcome.html) and the [Software Sustainability Institute](https://www.software.ac.uk).
@@ -98,7 +87,6 @@ I am a final-year PhD student in cognitive psychology at the University of Manch
 
 #### January 2021:
   * Published a report in the [BPS Cognitive Psychology Bulletin](https://shop.bps.org.uk/the-cognitive-psychology-bulletin-issue-6-spring-2021) on using my Postgraduate Rapid Project Grant.
-  * Assisted design of several Final Year Undergraduate Projects, and programmed experiments using [PsychoPy](https://www.psychopy.org) (project co-supervisor)
 
 #### November 2020:
   * Graduated MRes Psychology at the University of Manchester (with distinction and Programme Prize)
