@@ -1,21 +1,3 @@
 title: Duncan Bradley
-logo: /assets/img/bradley.jpg
-description: Cognitive Psychology PhD Student researching data visualisations at the University of Manchester
-theme: jekyll-theme-minimal
-email: mailto:duncanbradley4@gmail.com
-twitter: https://twitter.com/duncanbradley_
-github: https://github.com/duncanbradley
-linkedin: https://www.linkedin.com/in/duncan-bradley-b68777257/
-tracker: tracker.html
- #   - label: "Email"
- # icon: "fas fa-fw fa-envelope-square"
- #     url: "mailto:duncanbradley4@gmail.com"
- #   - label: "Twitter"
- #     icon: "fab fa-fw fa-twitter-square"
- #     url: "https://twitter.com/duncanbradley_"
- #   - label: "GitHub"
- #     icon: "fab fa-fw fa-github"
- #     url: "https://github.com/duncanbradley"
- #   - label: "LinkedIn"
- #     icon: "fab fa-fw fa-linkedin"
- #     url: "https://www.linkedin.com/in/duncan-bradley-b68777257/"
+description: I am a data visualisation enthusiast
+theme: jekyll-theme-tactile
