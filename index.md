@@ -9,4 +9,4 @@ layout: home
 ---
 I am a data visualisation *enthusiast*
 
-Link to portfolio[./about]
+Link to [portfolio](./portfolio/)
