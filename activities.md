@@ -4,6 +4,9 @@ title: Recent Activities
 permalink: /activities
 ---
 
+#### December 2023
+   * Passed my PhD viva with [minor corrections](https://www.vitae.ac.uk/doing-research/doing-a-doctorate/completing-your-doctorate/your-viva/thesis-outcomes)
+
 #### October 2023
   * The first paper from my PhD, [*Choropleth Maps Can Convey Absolute Magnitude Through the Range of the Accompanying Colour Legend*](https://doi.org/10.1080/0144929X.2023.2260889), was published in Behaviour and Information Technology (Open Access).
 
