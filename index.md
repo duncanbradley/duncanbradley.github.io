@@ -9,4 +9,6 @@ layout: home
 ---
 I am a data visualisation *enthusiast*
 
-Link to [portfolio](./portfolio)
+My [recent(-ish) activities](./activities)
+
+[Get in touch](mailto:duncanbradley4@gmail.com)
