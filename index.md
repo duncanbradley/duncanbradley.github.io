@@ -11,4 +11,4 @@ I am a data visualisation *enthusiast*
 
 My [recent(-ish) activities](./activities)
 
-[Get in touch](mailto:duncanbradley4@gmail.com)
+[Get in touch](mailto:duncanb@duck.com)
