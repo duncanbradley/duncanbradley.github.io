@@ -4,6 +4,9 @@ title: Recent Activities
 permalink: /activities
 ---
 
+#### February 2024
+   * The second paper from my PhD, [*Magnitude Judgements are Influenced by the Relative Positions of Data Points Within Axis Limits*](https://pure.manchester.ac.uk/ws/portalfiles/portal/296668839/TVCG3364069-4.pdf), was published in IEEE Transactions on Visualization and Computer Graphics.
+
 #### December 2023
    * Passed my PhD viva with [minor corrections](https://www.vitae.ac.uk/doing-research/doing-a-doctorate/completing-your-doctorate/your-viva/thesis-outcomes)
 
