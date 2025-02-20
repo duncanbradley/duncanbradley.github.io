@@ -60,6 +60,7 @@ permalink: /resources
    * [Bad Ideas In Visualization](https://mcorrell.medium.com/bad-ideas-in-visualization-77d378148d35)
    * [Defense Against Dishonest Charts](https://flowingdata.com/projects/dishonest-charts/?utm_source=puntofisso&utm_medium=email&utm_campaign=597-quantum-of-sollazzo)
    * [Making Pictographs? Choose Your Icons Wisely!](https://www.vis4.net/blog/choose-your-icons-wisely/)
+   * [Three laws of visual communication](https://graphicsprinciples.github.io/gallery/posts/2019/2019-09-09-three-laws-vizcom/201-three-laws-vizcom.html)
 
 ## Dashboards
    * [Are Dashboards Rude?](https://mcorrell.medium.com/are-dashboards-rude-aa32cb62f9ff)
