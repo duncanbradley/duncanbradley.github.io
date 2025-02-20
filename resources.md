@@ -12,6 +12,7 @@ permalink: /resources
    * [The Veil of Ignorance](https://mrmrs.cc/writing/the-veil-of-ignorance/)
    * [Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/)
    * [Dataviz accessibility principles, demonstrated by the 2024 presidential election dashboards](https://fossheim.io/writing/posts/2024-dataviz-a11y-elections/)
+   * [The Chartability Workbook](https://chartability.github.io/POUR-CAF/)
 
 ## Web Design
    * [Brutalist Web Design](https://brutalist-web.design/)
