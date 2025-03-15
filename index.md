@@ -7,11 +7,13 @@
 #
 layout: home
 ---
-I am a data visualisation *enthusiast*
+I am a data visualisation *enthusiast*.
 
 I have a PhD in Psychology from the University of Manchester. My thesis explored how people interpret charts. I now work as a data visualisation developer.
 
-I have given talks to the Experimental Psychology Society, the Jean Golding Institute, and London Data Visualisation. My writing has been published in academic journals and Nightingale, the magazine of the Data Visualisation Society.  
+I have given talks to the Experimental Psychology Society, the Jean Golding Institute, and London Data Visualisation. 
+
+My writing has been published in academic journals and Nightingale, the magazine of the Data Visualisation Society.  
 
 I am writing monthly articles about data graphics at [Graph Paper](graphpaper.substack.com). 
 
