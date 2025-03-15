@@ -15,6 +15,6 @@ I have given talks to the Experimental Psychology Society, the Jean Golding Inst
 
 My writing has been published in academic journals and Nightingale, the magazine of the Data Visualisation Society.  
 
-I am writing monthly articles about data graphics at [Graph Paper](graphpaper.substack.com). 
+I am writing monthly articles about data graphics at [Graph Paper](https://graphpaper.substack.com). 
 
 If you’d like to chat, please do [get in touch](mailto:duncanb@duck.com) 
