@@ -7,6 +7,7 @@ permalink: /resources
 ## Typography
    * [Dashes, dumb quotes and double spacing](https://lambon.co.uk/blog/dashes-dumb-quotation-marks-and-double-spacing/)
    * [Butterick’s Practical Typography](https://practicaltypography.com/)
+   * [The Elements of Typographic Style Applied to the Web](https://webtypography.net/toc)
 
 ## Accessibility
    * [The Veil of Ignorance](https://mrmrs.cc/writing/the-veil-of-ignorance/)
@@ -32,9 +33,11 @@ permalink: /resources
    * [Hierachical Models](http://mfviz.com/hierarchical-models/)
    * [Why probability probably doesn’t exist (but it is useful to act like it does)](https://www.nature.com/articles/d41586-024-04096-5)
    * [Handy statistical lexicon](https://statmodeling.stat.columbia.edu/2009/05/24/handy_statistic/)
+   * [A bestiary of undead statistics](https://olihawkins.com/post/2022/10/31/a-bestiary-of-undead-statistics)
 
-## Writing
+## Communication
    * [A Semi-Ordered List of Things That Annoy Me In Research Papers](https://mcorrell.medium.com/a-semi-ordered-list-of-things-that-annoy-me-in-research-papers-16d46ee87104)
+   * [The Three Laws of Professional Communication](https://users.cs.utah.edu/~dejohnso/threelaws.pdf)
 
 ## Software Development
    * [Basics of the Unix Philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)
@@ -45,12 +48,17 @@ permalink: /resources
    * [Emperor Sh and the Traveller](https://sanctum.geek.nz/etc/emperor-sh-and-the-traveller.txt)
    * [The Twelve-Factor App](https://12factor.net/)
    * [12 resolutions for programmers](https://matt.might.net/articles/programmers-resolutions/)
+   * [Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/)
 
 ## CSS
-   * [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/?utm_source=puntofisso&utm_medium=email&utm_campaign=553-quantum-of-sollazzo)
+   * [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)
    * [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-   * [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/?utm_source=tldrwebdev&utm_medium=email&utm_campaign=572-quantum-of-sollazzo)
+   * [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
    * [Code smells in CSS](https://csswizardry.com/2012/11/code-smells-in-css/)
+
+## SQL
+   * [SQLZoo](https://www.sqlzoo.net/wiki/SQL_Tutorial)
+   * [SQLBolt](https://sqlbolt.com/)
 
 ## Data Visualisation
    * [A linguistic introduction to d3.js](https://medium.com/free-code-camp/a-linguistic-introduction-to-d3-js-7a40a980bf97)
@@ -58,7 +66,7 @@ permalink: /resources
    * [Five ways to effectively use animation in data visualization](https://observablehq.com/blog/effective-animation)
    * [A checklist for data graphics](https://statmodeling.stat.columbia.edu/2022/03/15/a-checklist-for-data-graphics/)
    * [Bad Ideas In Visualization](https://mcorrell.medium.com/bad-ideas-in-visualization-77d378148d35)
-   * [Defense Against Dishonest Charts](https://flowingdata.com/projects/dishonest-charts/?utm_source=puntofisso&utm_medium=email&utm_campaign=597-quantum-of-sollazzo)
+   * [Defense Against Dishonest Charts](https://flowingdata.com/projects/dishonest-charts/)
    * [Making Pictographs? Choose Your Icons Wisely!](https://www.vis4.net/blog/choose-your-icons-wisely/)
    * [Three laws of visual communication](https://graphicsprinciples.github.io/gallery/posts/2019/2019-09-09-three-laws-vizcom/201-three-laws-vizcom.html)
 
@@ -69,6 +77,6 @@ permalink: /resources
 ## Data Visualisation Inventories
    * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
    * [Data Viz Project](https://datavizproject.com/)
-   * [From Data to Viz](https://www.data-to-viz.com/?utm_source=puntofisso&utm_medium=email&utm_campaign=578-quantum-of-sollazzo)
+   * [From Data to Viz](https://www.data-to-viz.com/)
    * [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
 
