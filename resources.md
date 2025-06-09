@@ -34,6 +34,7 @@ permalink: /resources
    * [Why probability probably doesn’t exist (but it is useful to act like it does)](https://www.nature.com/articles/d41586-024-04096-5)
    * [Handy statistical lexicon](https://statmodeling.stat.columbia.edu/2009/05/24/handy_statistic/)
    * [A bestiary of undead statistics](https://olihawkins.com/post/2022/10/31/a-bestiary-of-undead-statistics)
+   * [Horror Stories | European Spreadsheet Risk Interest Group](https://eusprig.org/research-info/horror-stories/)
 
 ## Communication
    * [A Semi-Ordered List of Things That Annoy Me In Research Papers](https://mcorrell.medium.com/a-semi-ordered-list-of-things-that-annoy-me-in-research-papers-16d46ee87104)
@@ -48,7 +49,7 @@ permalink: /resources
    * [Emperor Sh and the Traveller](https://sanctum.geek.nz/etc/emperor-sh-and-the-traveller.txt)
    * [The Twelve-Factor App](https://12factor.net/)
    * [12 resolutions for programmers](https://matt.might.net/articles/programmers-resolutions/)
-   * [Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/)
+   * [RAP in Public Sector](https://aeturrell.com/blog/posts/public-sector-analytical-efficiency/)
 
 ## CSS
    * [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)
@@ -60,6 +61,10 @@ permalink: /resources
    * [SQLZoo](https://www.sqlzoo.net/wiki/SQL_Tutorial)
    * [SQLBolt](https://sqlbolt.com/)
 
+## AI
+   * [The Recurring Cycle of 'Developer Replacement' Hype](https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/)
+   * [Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/)
+
 ## Data Visualisation
    * [A linguistic introduction to d3.js](https://medium.com/free-code-camp/a-linguistic-introduction-to-d3-js-7a40a980bf97)
    * ["Good enough" charts for work](https://www.counting-stuff.com/good-enough-charts-for-work/)
@@ -69,6 +74,9 @@ permalink: /resources
    * [Defense Against Dishonest Charts](https://flowingdata.com/projects/dishonest-charts/)
    * [Making Pictographs? Choose Your Icons Wisely!](https://www.vis4.net/blog/choose-your-icons-wisely/)
    * [Three laws of visual communication](https://graphicsprinciples.github.io/gallery/posts/2019/2019-09-09-three-laws-vizcom/201-three-laws-vizcom.html)
+   * [Steps to Beautiful Visualizations](https://www.lukew.com/ff/entry.asp?1335)
+   * [Minimalism and the absurdity of the data-to-ink-ratio](https://www.frank.computer/blog/2025/04/data-to-ink.html)
+   * [Design for an Audience](https://style.org/ku/)
 
 ## Dashboards
    * [Are Dashboards Rude?](https://mcorrell.medium.com/are-dashboards-rude-aa32cb62f9ff)
