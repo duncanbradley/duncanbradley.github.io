@@ -1,4 +1,8 @@
-# Data Graphics-Related Exhibitions in London
+---
+layout: page
+title: Data Graphics-Related Exhibitions in London
+permalink: /exhibitions
+---
 
 Current:
 
