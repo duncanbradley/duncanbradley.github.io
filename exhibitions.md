@@ -6,7 +6,7 @@ permalink: /exhibitions
 
 Current:
 
-* [#didntreadthetandcs Pop-up Data Viz Exhibition*](https://www.eventbrite.co.uk/e/didntreadthetandcs-pop-up-data-viz-exhibition-tickets-1783493790939), The Information Lab, 6 November 2025
+* [*#didntreadthetandcs Pop-up Data Viz Exhibition*](https://www.eventbrite.co.uk/e/didntreadthetandcs-pop-up-data-viz-exhibition-tickets-1783493790939), The Information Lab, 6 November 2025
 * [*Pictograms: Iconic Japanese Designs*](https://www.japanhouselondon.uk/whats-on/pictograms-iconic-japanese-designs/), Japan House, 29 July 2025 - 9 November 2025
 * [*Bomb Damage Maps* at *London in the Second World War*](https://www.thelondonarchives.org/visit-us/exhibitions/london-in-the-second-world-war), The London Archives, 24 February 2025 - 19 February 2026
 
