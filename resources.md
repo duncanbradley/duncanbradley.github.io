@@ -34,7 +34,7 @@ permalink: /resources
    * [Why probability probably doesn’t exist (but it is useful to act like it does)](https://www.nature.com/articles/d41586-024-04096-5)
    * [Handy statistical lexicon](https://statmodeling.stat.columbia.edu/2009/05/24/handy_statistic/)
    * [A bestiary of undead statistics](https://olihawkins.com/post/2022/10/31/a-bestiary-of-undead-statistics)
-   * [Horror Stories | European Spreadsheet Risk Interest Group](https://eusprig.org/research-info/horror-stories/)
+   * [Horror Stories - European Spreadsheet Risk Interest Group](https://eusprig.org/research-info/horror-stories/)
 
 ## Communication
    * [A Semi-Ordered List of Things That Annoy Me In Research Papers](https://mcorrell.medium.com/a-semi-ordered-list-of-things-that-annoy-me-in-research-papers-16d46ee87104)
