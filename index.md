@@ -20,7 +20,7 @@ I currently writing monthly articles about data graphics at [Graph Paper](https:
 
 I have given talks to the Experimental Psychology Society, the Jean Golding Institute, and London Data Visualisation.
 
-If you’d like to chat, please do [get in touch](mailto:graphpaper@substack.com) 
+If you’d like to chat, please do [get in touch](mailto:graphpaper@substack.com).
 
 Yours faithfully,
 
