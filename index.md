@@ -12,7 +12,7 @@ Hello there,
 
 I hope this letter finds you well.
 
-My name’s Duncan Bradley. I'm the author of [How to Sound Smart When Talking About Charts](https://graphpaper.substack.com) and the creator of [A Data Graphics Map of London](https://graphpaper.substack.com/p/a-data-graphics-map-of-london).
+My name’s Duncan Bradley. I'm the author of [How To Sound Smart When Talking About Charts](https://graphpaper.substack.com) and the creator of [A Data Graphics Map of London](https://graphpaper.substack.com/p/a-data-graphics-map-of-london).
 
 I have a PhD in Psychology from the University of Manchester. My research explored the question ‘How do data visualisations make numbers look big or small?’ 
 
