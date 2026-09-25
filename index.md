@@ -16,7 +16,7 @@ My name’s Duncan Bradley. I'm the author of [How To Sound Smart When Talking A
 
 I have a PhD in Psychology from the University of Manchester. My research explored the question ‘How do data visualisations make numbers look big or small?’ 
 
-I work as a data visualisation develop and write monthly articles about data graphics at [Graph Paper](https://graphpaper.substack.com). My writing has also been published in academic journals and Nightingale, the magazine of the Data Visualisation Society.
+I work as a Data Visualisation Developer and write monthly articles about data graphics at [Graph Paper](https://graphpaper.substack.com). My writing has also been published in academic journals and Nightingale, the magazine of the Data Visualisation Society.
 
 I have given talks to the Experimental Psychology Society, the Jean Golding Institute, and London Data Visualisation.
 
